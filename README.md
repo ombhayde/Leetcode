@@ -38,6 +38,7 @@ My leetcode solutions
 | [0035-search-insert-position](https://github.com/ombhayde/Leetcode/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/ombhayde/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ My leetcode solutions
 | [0009-palindrome-number](https://github.com/ombhayde/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 ## Trie
 |  |
 | ------- |
@@ -85,4 +87,8 @@ My leetcode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/ombhayde/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->

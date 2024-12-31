@@ -33,6 +33,7 @@ My leetcode solutions
 | [0001-two-sum](https://github.com/ombhayde/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ombhayde/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ombhayde/Leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/ombhayde/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ombhayde/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->

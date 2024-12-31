@@ -11,6 +11,7 @@ My leetcode solutions
 | [0008-string-to-integer-atoi](https://github.com/ombhayde/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ombhayde/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
@@ -49,4 +50,8 @@ My leetcode solutions
 | [0009-palindrome-number](https://github.com/ombhayde/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ombhayde/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

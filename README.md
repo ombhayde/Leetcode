@@ -8,6 +8,7 @@ My leetcode solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/ombhayde/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/ombhayde/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |

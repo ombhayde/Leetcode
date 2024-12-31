@@ -10,6 +10,7 @@ My leetcode solutions
 | [0006-zigzag-conversion](https://github.com/ombhayde/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/ombhayde/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
@@ -32,6 +33,7 @@ My leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/ombhayde/Leetcode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,4 +48,5 @@ My leetcode solutions
 | [0007-reverse-integer](https://github.com/ombhayde/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ombhayde/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->

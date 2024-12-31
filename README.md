@@ -12,6 +12,7 @@ My leetcode solutions
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ombhayde/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ombhayde/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -98,4 +99,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

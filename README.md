@@ -42,6 +42,7 @@ My leetcode solutions
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
+| [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,4 +104,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0020-valid-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->

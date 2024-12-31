@@ -6,6 +6,7 @@ My leetcode solutions
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Rolling Hash
 |  |
@@ -27,4 +28,12 @@ My leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ombhayde/Leetcode/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

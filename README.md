@@ -43,6 +43,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
+| [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +62,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +94,7 @@ My leetcode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/ombhayde/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
+| [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 ## Matrix
 |  |
 | ------- |
@@ -108,4 +111,9 @@ My leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
+| [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->

@@ -43,6 +43,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
+| [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
 ## Hash Table
@@ -73,6 +74,7 @@ My leetcode solutions
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
+| [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 ## Trie
 |  |
 | ------- |
@@ -121,4 +123,12 @@ My leetcode solutions
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

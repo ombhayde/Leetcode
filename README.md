@@ -134,6 +134,7 @@ My leetcode solutions
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
+| [2509-minimize-xor](https://github.com/ombhayde/Leetcode/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ombhayde/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Bitmask
 |  |
@@ -156,6 +157,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ombhayde/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/ombhayde/Leetcode/tree/master/2509-minimize-xor) |
 ## Counting
 |  |
 | ------- |

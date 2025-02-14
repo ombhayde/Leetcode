@@ -96,6 +96,7 @@ My leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ombhayde/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ombhayde/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ombhayde/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -121,11 +122,13 @@ My leetcode solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +166,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ombhayde/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Bit Manipulation

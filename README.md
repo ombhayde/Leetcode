@@ -55,6 +55,7 @@ My leetcode solutions
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0854-making-a-large-island](https://github.com/ombhayde/Leetcode/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1876-map-of-highest-peak](https://github.com/ombhayde/Leetcode/tree/master/1876-map-of-highest-peak) |
@@ -111,6 +112,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
+| [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Trie
 |  |
 | ------- |
@@ -244,6 +246,7 @@ My leetcode solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2145-grid-game](https://github.com/ombhayde/Leetcode/tree/master/2145-grid-game) |
 ## Depth-First Search
 |  |
@@ -271,9 +274,14 @@ My leetcode solutions
 ## Design
 |  |
 | ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

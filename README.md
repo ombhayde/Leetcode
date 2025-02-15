@@ -115,6 +115,7 @@ My leetcode solutions
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ombhayde/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Trie
 |  |
 | ------- |
@@ -147,6 +148,7 @@ My leetcode solutions
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/ombhayde/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix
 |  |
 | ------- |

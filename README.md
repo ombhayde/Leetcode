@@ -99,6 +99,7 @@ My leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ombhayde/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ombhayde/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ombhayde/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/ombhayde/Leetcode/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/ombhayde/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ombhayde/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -129,6 +130,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0061-rotate-list](https://github.com/ombhayde/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ombhayde/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ombhayde/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0148-sort-list](https://github.com/ombhayde/Leetcode/tree/master/0148-sort-list) |

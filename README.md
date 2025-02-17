@@ -139,6 +139,7 @@ My leetcode solutions
 | [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ombhayde/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ombhayde/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -218,6 +219,7 @@ My leetcode solutions
 | ------- |
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/ombhayde/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ombhayde/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ombhayde/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Greedy

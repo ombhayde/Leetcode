@@ -22,6 +22,7 @@ My leetcode solutions
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ombhayde/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ombhayde/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ombhayde/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
@@ -65,6 +66,7 @@ My leetcode solutions
 | [1876-map-of-highest-peak](https://github.com/ombhayde/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombhayde/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ombhayde/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ombhayde/Leetcode/tree/master/2145-grid-game) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ombhayde/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -90,6 +92,7 @@ My leetcode solutions
 | [0242-valid-anagram](https://github.com/ombhayde/Leetcode/tree/master/0242-valid-anagram) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ombhayde/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ombhayde/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -167,6 +170,7 @@ My leetcode solutions
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ombhayde/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ombhayde/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ombhayde/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Matrix

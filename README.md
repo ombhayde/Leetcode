@@ -59,6 +59,7 @@ My leetcode solutions
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0854-making-a-large-island](https://github.com/ombhayde/Leetcode/tree/master/0854-making-a-large-island) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -91,6 +92,7 @@ My leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/ombhayde/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ombhayde/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ombhayde/Leetcode/tree/master/0242-valid-anagram) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ombhayde/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ombhayde/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -334,6 +336,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/ombhayde/Leetcode/tree/master/0148-sort-list) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
@@ -341,11 +344,13 @@ My leetcode solutions
 ## Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ombhayde/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/ombhayde/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->

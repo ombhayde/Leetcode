@@ -151,6 +151,7 @@ My leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/ombhayde/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/ombhayde/Leetcode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ombhayde/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/ombhayde/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
@@ -294,6 +295,7 @@ My leetcode solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
@@ -353,11 +355,13 @@ My leetcode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ombhayde/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ombhayde/Leetcode/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ombhayde/Leetcode/tree/master/0148-sort-list) |
 ## Tree
 |  |

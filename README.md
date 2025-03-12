@@ -66,6 +66,7 @@ My leetcode solutions
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
+| [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/ombhayde/Leetcode/tree/master/0854-making-a-large-island) |
@@ -140,6 +141,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -202,6 +204,7 @@ My leetcode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/ombhayde/Leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
+| [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/ombhayde/Leetcode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |

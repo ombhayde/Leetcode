@@ -67,6 +67,7 @@ My leetcode solutions
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/ombhayde/Leetcode/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -140,6 +141,7 @@ My leetcode solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ombhayde/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |

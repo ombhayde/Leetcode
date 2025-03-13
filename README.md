@@ -99,6 +99,7 @@ My leetcode solutions
 | [3429-special-array-i](https://github.com/ombhayde/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ombhayde/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/ombhayde/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ombhayde/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
@@ -427,6 +428,7 @@ My leetcode solutions
 | [1755-defuse-the-bomb](https://github.com/ombhayde/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ombhayde/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3483-alternating-groups-ii](https://github.com/ombhayde/Leetcode/tree/master/3483-alternating-groups-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ombhayde/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Monotonic Stack
 |  |

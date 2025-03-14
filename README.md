@@ -323,6 +323,7 @@ My leetcode solutions
 | [2564-most-profitable-path-in-a-tree](https://github.com/ombhayde/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ombhayde/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ombhayde/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Graph
 |  |
 | ------- |
@@ -332,6 +333,7 @@ My leetcode solutions
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ombhayde/Leetcode/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ombhayde/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/ombhayde/Leetcode/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ombhayde/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -366,6 +368,7 @@ My leetcode solutions
 | [2564-most-profitable-path-in-a-tree](https://github.com/ombhayde/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ombhayde/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ombhayde/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Union Find
 |  |
 | ------- |
@@ -416,6 +419,7 @@ My leetcode solutions
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/ombhayde/Leetcode/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ombhayde/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/ombhayde/Leetcode/tree/master/3058-maximum-number-of-k-divisible-components) |
+| [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ombhayde/Leetcode/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
 |  |
 | ------- |

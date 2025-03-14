@@ -71,6 +71,7 @@ My leetcode solutions
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0854-making-a-large-island](https://github.com/ombhayde/Leetcode/tree/master/0854-making-a-large-island) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1063-best-sightseeing-pair](https://github.com/ombhayde/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ombhayde/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -149,6 +150,7 @@ My leetcode solutions
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1063-best-sightseeing-pair](https://github.com/ombhayde/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ombhayde/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |

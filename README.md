@@ -94,6 +94,7 @@ My leetcode solutions
 | [2564-most-profitable-path-in-a-tree](https://github.com/ombhayde/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ombhayde/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [2690-house-robber-iv](https://github.com/ombhayde/Leetcode/tree/master/2690-house-robber-iv) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ombhayde/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ombhayde/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -213,6 +214,7 @@ My leetcode solutions
 | [0035-search-insert-position](https://github.com/ombhayde/Leetcode/tree/master/0035-search-insert-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ombhayde/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2690-house-robber-iv](https://github.com/ombhayde/Leetcode/tree/master/2690-house-robber-iv) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |

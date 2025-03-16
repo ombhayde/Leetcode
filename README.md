@@ -31,6 +31,7 @@ My leetcode solutions
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ombhayde/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ombhayde/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ombhayde/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -137,6 +138,7 @@ My leetcode solutions
 | [1502-construct-k-palindrome-strings](https://github.com/ombhayde/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ombhayde/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ombhayde/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -321,6 +323,7 @@ My leetcode solutions
 | [0780-max-chunks-to-make-sorted](https://github.com/ombhayde/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/ombhayde/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ombhayde/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ombhayde/Leetcode/tree/master/2509-minimize-xor) |
 ## Counting
@@ -330,6 +333,7 @@ My leetcode solutions
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ombhayde/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/ombhayde/Leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
@@ -370,6 +374,7 @@ My leetcode solutions
 | [0023-merge-k-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ombhayde/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |

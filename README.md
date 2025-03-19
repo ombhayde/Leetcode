@@ -109,6 +109,7 @@ My leetcode solutions
 | [1927-maximum-ascending-subarray-sum](https://github.com/ombhayde/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ombhayde/Leetcode/tree/master/2145-grid-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/ombhayde/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ombhayde/Leetcode/tree/master/2478-longest-nice-subarray) |
@@ -415,6 +416,7 @@ My leetcode solutions
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ombhayde/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ombhayde/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2145-grid-game](https://github.com/ombhayde/Leetcode/tree/master/2145-grid-game) |
+| [2358-number-of-ways-to-split-array](https://github.com/ombhayde/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ombhayde/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |

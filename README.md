@@ -37,6 +37,7 @@ My leetcode solutions
 | [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ombhayde/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ombhayde/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -107,6 +108,7 @@ My leetcode solutions
 | [1927-maximum-ascending-subarray-sum](https://github.com/ombhayde/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/ombhayde/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/ombhayde/Leetcode/tree/master/2145-grid-game) |
+| [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/ombhayde/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ombhayde/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -409,6 +411,7 @@ My leetcode solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ombhayde/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2145-grid-game](https://github.com/ombhayde/Leetcode/tree/master/2145-grid-game) |
+| [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ombhayde/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search

@@ -204,6 +204,7 @@ My leetcode solutions
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ombhayde/Leetcode/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
+| [2562-count-ways-to-build-good-strings](https://github.com/ombhayde/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Math
 |  |
 | ------- |

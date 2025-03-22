@@ -144,6 +144,7 @@ My leetcode solutions
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ombhayde/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/ombhayde/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ombhayde/Leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3427-special-array-ii](https://github.com/ombhayde/Leetcode/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/ombhayde/Leetcode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ombhayde/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ombhayde/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -278,6 +279,7 @@ My leetcode solutions
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ombhayde/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ombhayde/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ombhayde/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3427-special-array-ii](https://github.com/ombhayde/Leetcode/tree/master/3427-special-array-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
@@ -466,6 +468,7 @@ My leetcode solutions
 | [2358-number-of-ways-to-split-array](https://github.com/ombhayde/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ombhayde/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3427-special-array-ii](https://github.com/ombhayde/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ombhayde/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 ## Depth-First Search

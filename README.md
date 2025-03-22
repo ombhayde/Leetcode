@@ -112,6 +112,7 @@ My leetcode solutions
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ombhayde/Leetcode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1876-map-of-highest-peak](https://github.com/ombhayde/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ombhayde/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ombhayde/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ombhayde/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/ombhayde/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/ombhayde/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
@@ -275,6 +276,7 @@ My leetcode solutions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ombhayde/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ombhayde/Leetcode/tree/master/0035-search-insert-position) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ombhayde/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ombhayde/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ombhayde/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ombhayde/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |

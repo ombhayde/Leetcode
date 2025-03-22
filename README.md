@@ -130,6 +130,7 @@ My leetcode solutions
 | [2685-first-completely-painted-row-or-column](https://github.com/ombhayde/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/ombhayde/Leetcode/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ombhayde/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ombhayde/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ombhayde/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -364,6 +365,7 @@ My leetcode solutions
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ombhayde/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ombhayde/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/ombhayde/Leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ombhayde/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -436,6 +438,7 @@ My leetcode solutions
 | [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/ombhayde/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2868-continuous-subarrays](https://github.com/ombhayde/Leetcode/tree/master/2868-continuous-subarrays) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ombhayde/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |

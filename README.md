@@ -44,6 +44,7 @@ My leetcode solutions
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ombhayde/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/ombhayde/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ombhayde/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ombhayde/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ombhayde/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ombhayde/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3447-clear-digits](https://github.com/ombhayde/Leetcode/tree/master/3447-clear-digits) |
@@ -210,6 +211,7 @@ My leetcode solutions
 | [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ombhayde/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/ombhayde/Leetcode/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## Dynamic Programming
 |  |
 | ------- |

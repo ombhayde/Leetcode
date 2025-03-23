@@ -129,6 +129,7 @@ My leetcode solutions
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ombhayde/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/ombhayde/Leetcode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ombhayde/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ombhayde/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2690-house-robber-iv](https://github.com/ombhayde/Leetcode/tree/master/2690-house-robber-iv) |
@@ -182,6 +183,7 @@ My leetcode solutions
 | [2434-design-a-number-container-system](https://github.com/ombhayde/Leetcode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/ombhayde/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2685-first-completely-painted-row-or-column](https://github.com/ombhayde/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ombhayde/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -282,6 +284,7 @@ My leetcode solutions
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/ombhayde/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2164-two-best-non-overlapping-events](https://github.com/ombhayde/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ombhayde/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ombhayde/Leetcode/tree/master/2690-house-robber-iv) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ombhayde/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -331,6 +334,7 @@ My leetcode solutions
 | [0780-max-chunks-to-make-sorted](https://github.com/ombhayde/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [2164-two-best-non-overlapping-events](https://github.com/ombhayde/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/ombhayde/Leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ombhayde/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ombhayde/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -399,6 +403,7 @@ My leetcode solutions
 | [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ombhayde/Leetcode/tree/master/2509-minimize-xor) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting
 |  |
 | ------- |

@@ -18,6 +18,7 @@ My leetcode solutions
 | [0022-generate-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ombhayde/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ombhayde/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0043-multiply-strings](https://github.com/ombhayde/Leetcode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ombhayde/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -251,6 +252,7 @@ My leetcode solutions
 | [0012-integer-to-roman](https://github.com/ombhayde/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ombhayde/Leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ombhayde/Leetcode/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/ombhayde/Leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
@@ -408,6 +410,7 @@ My leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/ombhayde/Leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ombhayde/Leetcode/tree/master/2232-adding-spaces-to-a-string) |

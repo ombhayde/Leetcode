@@ -95,6 +95,7 @@ My leetcode solutions
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/ombhayde/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
@@ -327,6 +328,7 @@ My leetcode solutions
 | [0040-combination-sum-ii](https://github.com/ombhayde/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ombhayde/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/ombhayde/Leetcode/tree/master/0051-n-queens) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |

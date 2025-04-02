@@ -329,6 +329,7 @@ My leetcode solutions
 | [0046-permutations](https://github.com/ombhayde/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/ombhayde/Leetcode/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/ombhayde/Leetcode/tree/master/0051-n-queens) |
+| [0052-n-queens-ii](https://github.com/ombhayde/Leetcode/tree/master/0052-n-queens-ii) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |

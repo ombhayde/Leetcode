@@ -245,6 +245,7 @@ My leetcode solutions
 | [1758-distribute-repeating-integers](https://github.com/ombhayde/Leetcode/tree/master/1758-distribute-repeating-integers) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ombhayde/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ombhayde/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ombhayde/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Math
 |  |
@@ -261,6 +262,7 @@ My leetcode solutions
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ombhayde/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ombhayde/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ombhayde/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -413,6 +415,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ombhayde/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 ## Simulation
 |  |
@@ -648,4 +651,8 @@ My leetcode solutions
 |  |
 | ------- |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ombhayde/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+## Combinatorics
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->

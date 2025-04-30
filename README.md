@@ -111,6 +111,7 @@ My leetcode solutions
 | [1063-best-sightseeing-pair](https://github.com/ombhayde/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/ombhayde/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ombhayde/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ombhayde/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -260,6 +261,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ombhayde/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |

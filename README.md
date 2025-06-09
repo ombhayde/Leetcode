@@ -273,6 +273,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ombhayde/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/ombhayde/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ombhayde/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Linked List
 |  |

@@ -171,6 +171,7 @@ My leetcode solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ombhayde/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ombhayde/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ombhayde/Leetcode/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/ombhayde/Leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Hash Table
 |  |
@@ -210,6 +211,7 @@ My leetcode solutions
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ombhayde/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ombhayde/Leetcode/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ombhayde/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -273,6 +275,7 @@ My leetcode solutions
 | [2610-closest-prime-numbers-in-range](https://github.com/ombhayde/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ombhayde/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ombhayde/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ombhayde/Leetcode/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 ## Trie
 |  |
 | ------- |
@@ -664,4 +667,5 @@ My leetcode solutions
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ombhayde/Leetcode/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
 <!---LeetCode Topics End-->

@@ -171,6 +171,7 @@ My leetcode solutions
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ombhayde/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ombhayde/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/ombhayde/Leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@ My leetcode solutions
 | [2164-two-best-non-overlapping-events](https://github.com/ombhayde/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2562-count-ways-to-build-good-strings](https://github.com/ombhayde/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/ombhayde/Leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Math
 |  |
 | ------- |
@@ -535,6 +537,7 @@ My leetcode solutions
 | [3427-special-array-ii](https://github.com/ombhayde/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ombhayde/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/ombhayde/Leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Depth-First Search
 |  |
 | ------- |

@@ -100,6 +100,7 @@ My leetcode solutions
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
+| [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -241,6 +242,7 @@ My leetcode solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0022-generate-parentheses) |
+| [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -473,6 +475,7 @@ My leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ombhayde/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0820-find-eventual-safe-states](https://github.com/ombhayde/Leetcode/tree/master/0820-find-eventual-safe-states) |

@@ -19,6 +19,7 @@ My leetcode solutions
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ombhayde/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ombhayde/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/ombhayde/Leetcode/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/ombhayde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/ombhayde/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/ombhayde/Leetcode/tree/master/0214-shortest-palindrome) |
@@ -242,6 +243,7 @@ My leetcode solutions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/ombhayde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -310,6 +312,7 @@ My leetcode solutions
 | [0021-merge-two-sorted-lists](https://github.com/ombhayde/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ombhayde/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ombhayde/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ombhayde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ombhayde/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -447,6 +450,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ombhayde/Leetcode/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ombhayde/Leetcode/tree/master/0044-wildcard-matching) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ombhayde/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1502-construct-k-palindrome-strings](https://github.com/ombhayde/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1917-maximum-average-pass-ratio](https://github.com/ombhayde/Leetcode/tree/master/1917-maximum-average-pass-ratio) |

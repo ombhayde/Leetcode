@@ -244,6 +244,7 @@ My leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ombhayde/Leetcode/tree/master/0044-wildcard-matching) |
+| [0279-perfect-squares](https://github.com/ombhayde/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
@@ -271,6 +272,7 @@ My leetcode solutions
 | [0048-rotate-image](https://github.com/ombhayde/Leetcode/tree/master/0048-rotate-image) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ombhayde/Leetcode/tree/master/0231-power-of-two) |
+| [0279-perfect-squares](https://github.com/ombhayde/Leetcode/tree/master/0279-perfect-squares) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ombhayde/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -479,6 +481,7 @@ My leetcode solutions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/ombhayde/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ombhayde/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |

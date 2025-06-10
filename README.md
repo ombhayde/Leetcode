@@ -54,6 +54,7 @@ My leetcode solutions
 | [3447-clear-digits](https://github.com/ombhayde/Leetcode/tree/master/3447-clear-digits) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ombhayde/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -208,6 +209,7 @@ My leetcode solutions
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/ombhayde/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ombhayde/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -458,6 +460,7 @@ My leetcode solutions
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ombhayde/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ombhayde/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ombhayde/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Brainteaser
 |  |
 | ------- |

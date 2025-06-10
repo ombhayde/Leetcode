@@ -100,6 +100,7 @@ My leetcode solutions
 | [0051-n-queens](https://github.com/ombhayde/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/ombhayde/Leetcode/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/ombhayde/Leetcode/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/ombhayde/Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |
@@ -245,6 +246,7 @@ My leetcode solutions
 | [0005-longest-palindromic-substring](https://github.com/ombhayde/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/ombhayde/Leetcode/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/ombhayde/Leetcode/tree/master/0044-wildcard-matching) |
+| [0198-house-robber](https://github.com/ombhayde/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ombhayde/Leetcode/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/ombhayde/Leetcode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/ombhayde/Leetcode/tree/master/0322-coin-change) |

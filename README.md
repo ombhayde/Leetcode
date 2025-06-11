@@ -56,6 +56,7 @@ My leetcode solutions
 | [3455-minimum-length-of-string-after-operations](https://github.com/ombhayde/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/ombhayde/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ombhayde/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -432,6 +433,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ombhayde/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -554,6 +556,7 @@ My leetcode solutions
 | [3427-special-array-ii](https://github.com/ombhayde/Leetcode/tree/master/3427-special-array-ii) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/ombhayde/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ombhayde/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/ombhayde/Leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Depth-First Search
 |  |
@@ -654,6 +657,7 @@ My leetcode solutions
 | [3483-alternating-groups-ii](https://github.com/ombhayde/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ombhayde/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/ombhayde/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ombhayde/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Monotonic Stack
 |  |
 | ------- |

@@ -177,6 +177,7 @@ My leetcode solutions
 | [3643-zero-array-transformation-ii](https://github.com/ombhayde/Leetcode/tree/master/3643-zero-array-transformation-ii) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/ombhayde/Leetcode/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3700-subsequences-with-a-unique-middle-mode-i](https://github.com/ombhayde/Leetcode/tree/master/3700-subsequences-with-a-unique-middle-mode-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ombhayde/Leetcode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/ombhayde/Leetcode/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Hash Table
 |  |

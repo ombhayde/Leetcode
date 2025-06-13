@@ -155,6 +155,7 @@ My leetcode solutions
 | [2691-count-vowel-strings-in-ranges](https://github.com/ombhayde/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ombhayde/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ombhayde/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ombhayde/Leetcode/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ombhayde/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ombhayde/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
@@ -339,6 +340,7 @@ My leetcode solutions
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2665-minimum-time-to-repair-cars](https://github.com/ombhayde/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ombhayde/Leetcode/tree/master/2690-house-robber-iv) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ombhayde/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ombhayde/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ombhayde/Leetcode/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/ombhayde/Leetcode/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
@@ -468,6 +470,7 @@ My leetcode solutions
 | [2456-construct-smallest-number-from-di-string](https://github.com/ombhayde/Leetcode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/ombhayde/Leetcode/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ombhayde/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ombhayde/Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Counting
 |  |
 | ------- |

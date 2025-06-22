@@ -42,6 +42,7 @@ My leetcode solutions
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/ombhayde/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ombhayde/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2232-adding-spaces-to-a-string](https://github.com/ombhayde/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ombhayde/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ombhayde/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ombhayde/Leetcode/tree/master/2300-construct-string-with-repeat-limit) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/ombhayde/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -450,6 +451,7 @@ My leetcode solutions
 | [0054-spiral-matrix](https://github.com/ombhayde/Leetcode/tree/master/0054-spiral-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/ombhayde/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/ombhayde/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/ombhayde/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ombhayde/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ombhayde/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/ombhayde/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |

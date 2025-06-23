@@ -284,6 +284,7 @@ My leetcode solutions
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ombhayde/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/ombhayde/Leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/ombhayde/Leetcode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ombhayde/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/ombhayde/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/ombhayde/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/ombhayde/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
@@ -437,6 +438,7 @@ My leetcode solutions
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ombhayde/Leetcode/tree/master/0204-count-primes) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/ombhayde/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/ombhayde/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Number Theory
 |  |

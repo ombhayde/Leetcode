@@ -110,6 +110,7 @@ My leetcode solutions
 | [0407-trapping-rain-water-ii](https://github.com/ombhayde/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0494-target-sum](https://github.com/ombhayde/Leetcode/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/ombhayde/Leetcode/tree/master/0526-beautiful-arrangement) |
+| [0594-longest-harmonious-subsequence](https://github.com/ombhayde/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ombhayde/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ombhayde/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0854-making-a-large-island](https://github.com/ombhayde/Leetcode/tree/master/0854-making-a-large-island) |
@@ -199,6 +200,7 @@ My leetcode solutions
 | [0160-intersection-of-two-linked-lists](https://github.com/ombhayde/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/ombhayde/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ombhayde/Leetcode/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/ombhayde/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/ombhayde/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0952-word-subsets](https://github.com/ombhayde/Leetcode/tree/master/0952-word-subsets) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -398,6 +400,7 @@ My leetcode solutions
 | [0049-group-anagrams](https://github.com/ombhayde/Leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/ombhayde/Leetcode/tree/master/0148-sort-list) |
 | [0242-valid-anagram](https://github.com/ombhayde/Leetcode/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/ombhayde/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0780-max-chunks-to-make-sorted](https://github.com/ombhayde/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ombhayde/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/ombhayde/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -488,6 +491,7 @@ My leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/ombhayde/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/ombhayde/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1396-count-servers-that-communicate](https://github.com/ombhayde/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/ombhayde/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -665,6 +669,7 @@ My leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ombhayde/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ombhayde/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0594-longest-harmonious-subsequence](https://github.com/ombhayde/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/ombhayde/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1755-defuse-the-bomb](https://github.com/ombhayde/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/ombhayde/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |

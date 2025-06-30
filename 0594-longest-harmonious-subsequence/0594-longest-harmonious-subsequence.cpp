@@ -1,15 +1,16 @@
 class Solution {
  public:
   int findLHS(vector<int>& nums) {
-    int ans = 0;
     unordered_map<int, int> count;
-
-    for (const int num : nums)
+    for (int num : nums)
       ++count[num];
 
-    for (const auto& [num, freq] : count)
-      if (const auto it = count.find(num + 1); it != count.cend())
-        ans = max(ans, freq + it->second);
+    int ans = 0;
+    for (auto it = count.begin(); it != count.end(); ++it) {
+      int curr = it->first;
+      if (count.count(curr + 1))
+        ans = max(ans, it->second + count[curr + 1]);
+    }
 
     return ans;
   }
